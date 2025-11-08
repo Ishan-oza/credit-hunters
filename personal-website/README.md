@@ -149,8 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Mastersolis Infotech**
-- Website: [mastersolis.dev](https://mastersolis.dev)
-- Email: contact@mastersolis.dev
+- Email: ishanoza666@gmail.com
 
 ---
 
