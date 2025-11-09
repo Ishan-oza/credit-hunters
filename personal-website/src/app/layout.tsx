@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { Header } from "@/components/header";
 import { PageTransition } from "@/components/page-transition";
 import { Footer } from "../components/footer";
+import { ChatWidget } from "@/components/ChatWidget";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -35,6 +36,7 @@ export default function RootLayout({
             <PageTransition>{children}</PageTransition>
           </div>
           <Footer />
+          <ChatWidget />
         </ThemeProvider>
       </body>
     </html>
